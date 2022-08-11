@@ -1,2 +1,2 @@
 # dicionario-datos-oracle
-Script para crear diccionario de datos de oracle
+el archivo script-oracle.sql es el script 
